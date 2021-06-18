@@ -1,4 +1,4 @@
-# time-microservice
+# datetime-service
 ***
 ### Ручки:
 + Проверка работоспособности сервиса:  
